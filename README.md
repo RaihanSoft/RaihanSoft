@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Mongo DB**
 
-- 👨‍💻 My portfolio https://raihansoft.github.io/Portfolio/
+- 👨‍💻 My portfolio <a href="https://www.linkedin.com/in/abo-raihan-b07774298/" target="blank">
 
 - 💬 Ask me about **MEARN**
 
