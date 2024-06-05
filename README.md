@@ -11,10 +11,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansoft&label=Profile%20views&color=0e75b6&style=flat" alt="raihansoft" /> </p>
 
-- 🌱 I’m currently learning **Mongo DB**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 My portfolio https://raihansoft.github.io/Portfolio/
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **React js**
 
 - 📫 How to reach me **aboraihan14@gmail.com**
 
