@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 My portfolio [https://raihansoft.github.io/Portfolio/](https://portfolio-zeta-inky-57.vercel.app/)
+- 👨‍💻 My portfolio [https://raihansoft.github.io/Portfolio/target="blank"](https://portfolio-zeta-inky-57.vercel.app/)
 - 💬 Ask me about **React js**
 
 - 📫 How to reach me **aboraihan14@gmail.com**
