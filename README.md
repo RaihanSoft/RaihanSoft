@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansoft&label=Profile%20views&color=0e75b6&style=flat" alt="raihansoft" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **NextJs, TypeScript, Redux**
 
 - 👨‍💻 My portfolio [https://raihansoft.github.io/Portfolio/](https://portfolio-zeta-inky-57.vercel.app/)
 - 💬 Ask me about **React js**
